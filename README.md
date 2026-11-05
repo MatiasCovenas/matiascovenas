@@ -68,8 +68,8 @@
 </p>
 
 <p align="left">
-  <a href="mailto:matiascove178@gmail.com" style="text-decoration: none;">
+  <a href="mailto:matiascove178@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" height="45" align="center"/>
-    <span style="color: #ffffff; text-decoration: none; font-weight: bold;"> matiascove178@gmail.com</span>
   </a>
+  <b>matiascove178@gmail.com</b>
 </p>
