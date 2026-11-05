@@ -41,9 +41,4 @@
 
 <br>
 
-### 📈 GitHub Stats
----
-<!-- Tarjeta dinámica de estadísticas de GitHub -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+
