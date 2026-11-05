@@ -29,7 +29,7 @@
 
 <p align="left">
   <!-- Cloud, Servidores & Virtualización -->
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45"/>
@@ -65,6 +65,9 @@
   <a href="https://www.linkedin.com/in/matias-covenas/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
+  <a href="mailto:matiascove178@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" height="45"/>
+  </a>
 </p>
 
-* ✉️ **Correo electrónico:** matiascove178@gmail.com
+* ✉️ **Correo:** matiascove178@gmail.com
