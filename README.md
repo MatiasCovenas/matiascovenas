@@ -68,5 +68,5 @@
 </p>
 
 <p align="left">
-  <a href="mailto:matiascove178@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30" height="30" align="center"/></a> <b>matiascove178@gmail.com</b>
+  <a href="mailto:matiascove178@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" height="45" align="center"/></a> <b>matiascove178@gmail.com</b>
 </p>
