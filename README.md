@@ -65,9 +65,11 @@
   <a href="https://www.linkedin.com/in/matias-covenas/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
-  <a href="mailto:matiascove178@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" height="45"/>
-  </a>
 </p>
 
-* ✉️ **Correo:** matiascove178@gmail.com
+<p align="left">
+  <a href="mailto:matiascove178@gmail.com" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30" height="30" align="center"/>
+    <strong>matiascove178@gmail.com</strong>
+  </a>
+</p>
