@@ -2,7 +2,7 @@
 
 <!-- Banner de Imagen -->
 <div align="center">
-  <img src="Gemini_Generated_Image_9d5s6u9d5s6u9d5s.jpg" alt="Banner Matias" width="100%">
+  <img src="banner.jpg" alt="Banner Matias" width="100%">
 </div>
 
 <br>
